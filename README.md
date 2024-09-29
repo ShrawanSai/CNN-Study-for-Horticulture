@@ -144,18 +144,6 @@ Resnet18_Dataset3.ipynb
 
 <h3>• Optimization:</h3> This folder contains code for optimizing a model with different set of learning rate. Optimization involves finding the best set of hyperparameters for a model to improve its performance.<br>
 
-<h2> Collaborators to our Project </h2>
-• GitHub ID: mahdihosseini, email tied to GitHub: (mahdi.hosseini@mail.utoronto.ca). <br>
-• GitHub ID: ahmedalagha1418, email tied to GitHub: (ahmedn.alagha@hotmail.com). <br>
-• GitHub ID: visnunathan8, email tied to GitHub: (rocketvisnu@gmail.com). <br>
-• GitHub ID: ShrawanSai, email tied to GitHub: (msaishrawan@gmail.com).<br>
-• GitHub ID: Sharanyu, email tied to GitHub: (sharanyu@hotmail.com).<br>
-• GitHub ID: kin-kins, email tied to GitHub: (K.ashu403@gmail.com).
-<br><br>
-
-[![AhmedAlagha1418][contributors-shield1]][contributors-url1]
-[![mahdihosseini][contributors-shield2]][contributors-url2]
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
